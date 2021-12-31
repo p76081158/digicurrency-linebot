@@ -6,7 +6,6 @@
 
 ## Google 試算表
 
-
 * [**連結**](https://docs.google.com/spreadsheets/d/17zwlUREjtZVlOEm8l_uKxB5TRuQaj_yh3F_DVkT8XOc/edit?usp=sharing)
 * **透過設定觸發條件更新試算表**
     * 每小時抓取一次資料
@@ -19,3 +18,4 @@
 * **透過 Google Apps Script 撰寫 Webhook**
 * **定期讀取試算表中的買賣點並主動 push 到 Line 群組**
 
+![](https://i.imgur.com/X3wbtPp.png)
